@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Plantilla: copia este archivo como connectionStrings.config y completa los valores. -->
+<connectionStrings>
+  <add name="IndraDB"
+       connectionString="Server=NOMBRE_DEL_SERVIDOR;Database=Indra_test;User Id=USUARIO;Password=CLAVE;"
+       providerName="System.Data.SqlClient" />
+</connectionStrings>

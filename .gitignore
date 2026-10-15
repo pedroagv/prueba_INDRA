@@ -1,0 +1,14 @@
+# Credenciales locales
+connectionStrings.config
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Salidas de compilacion
+bin/
+obj/
+
+# Paquetes NuGet (se restauran al compilar)
+packages/
